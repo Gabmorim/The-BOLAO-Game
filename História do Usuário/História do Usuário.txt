@@ -1,0 +1,14 @@
+Eu como usuário, quero poder dar o meu palpite e ver na tela o meu número e o número sorteado para saber se acertei ou não.
+
+Critérios de aceitação:
+- O usuário precisa de um campo para digitar o seu palpite;
+- O usuário precisa ver na tela o número sorteado e o seu palpite;
+- Deve aparecer na tela se o usuário acertou ou não o número sorteado;
+- Caso ele tenha acertado, deve ser declarado vitória dele;
+- Caso contrário, deve ser permitida novas tentativas até que ele acerte ou o computador vença;
+
+Exemplo:
+- Gabriel inciou o jogo dando um palpite no campo disponível e na sequência apertou o botão para iniciar o jogo;
+- Na primeira tentativa ele errou e foi permitido que ele fizesse uma nova tentativa;
+- Agora ele acertou e venceu o jogo;
+- Clicou no botão para reniciar e jogar de novo;

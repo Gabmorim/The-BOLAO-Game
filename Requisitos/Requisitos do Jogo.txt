@@ -1,0 +1,10 @@
+REQUISITOS:
+
+- O computador deve sortear um número aleatório de 1 à 20;
+- É necessário permitir que o usuário dê o seu palpite;
+- É preciso mostrar na tela o palpite do usuário e o número sorteado;
+- O computador deve comparar o número sorteado com o palpite do usuário e indicar se são ou não iguais;
+- Caso sejam iguais, deve ser declarado vitória do usuário;
+- Caso sejam diferentes, o computador deve fazer um novo sorteio e o número obtido deve ser somado com o sorteio anterior. Esse será o novo alvo para o usuário;
+- Caso os sorteios cheguem no número 100 ou ultrapassem essa marca, automaticamente deve ser declarado vitória do computador;
+- É necessário um botão para reiniciar o jogo a qualquer momento;
