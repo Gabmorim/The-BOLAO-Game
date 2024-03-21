@@ -29,7 +29,7 @@ document.querySelector('#button').addEventListener('click', function() {
     }
 
     if (sort === 99) {
-        document.querySelector('#result').textContent = "Você não tem mais condições de vencer o jogo";
+        document.querySelector('#result').textContent = "Você não tem mais condições de vencer o jogo, vitória do computador!";
     }
 
 });
